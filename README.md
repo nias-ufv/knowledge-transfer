@@ -20,7 +20,7 @@ Aqui você pode colocar uma captura de tela do produto resultante desse projeto.
 O repositório é estruturado de forma que você possa aprender diretamente do Github, lendo os notebooks aprensentando em código e texto explicações pontuais sobre tópicos importantes para projetar soluções aplicando Inteligência Artificial. Atualmente os notebooks estão estruturados como:
 
 - ```/classification``` $\to$ métodos para resolver problemas de classificação (inferência de categorias)
-- ```/exploratory-data-analysis``` $\to$ métodos de processamento de dados para visualização do comportamento e estrutura da informação
+- ```/exploratory-data-analysis``` $\to$ métodos para visualização do comportamento e estrutura da informação
 - ```/machine-learning``` $\to$ passagem de conhecimento sobre definições e termos em Inteligência Artificial
 - ```/regression``` $\to$ métodos para resolver problemas de regressão (inferência numérica)
 - ```/reinforcement-learning``` $\to$ métodos para resolver problemas empregando aprendizado por reforço
@@ -42,6 +42,22 @@ Geralmente os próximos passos ensinam como instalar e configurar o projeto para
 ```
 git clone https://github.com/OpenSourceLabUFV/template
 ``` -->
+
+## Contato
+
+Em ordem alfabética, a equipe atual é composta por:
+
+$\to$ [Alexandre-Caldeira (Alexandre Caldeira)](https://github.com/Alexandre-Caldeira)
+
+$\to$ [naripok (Fernando Canteruccio)](https://github.com/naripok)
+
+$\to$ [luweb (Lucas Webster)](https://github.com/luweb)
+
+$\to$ [dsv-pablo (Pablo Vieira)](https://github.com/dsv-pablo)
+
+$\to$ [rodolphoneves (Rodolpho Neves)](https://github.com/rodolphoneves)
+
+$\to$ [VictorRagazzi (Torugo)](https://github.com/VictorRagazzi)
 
 ## 🤝 Contribua
 
