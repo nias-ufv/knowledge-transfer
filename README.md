@@ -38,6 +38,13 @@ O repositório é estruturado de forma que você possa aprender diretamente do G
 - [EXEMPLO de solução de competição em NLP](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/competitions/what_s_cooking/WHAT_S_COOKING.ipynb)
 - [INTRO ao aprendizado por reforço](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/reinforcement-learning/intro_rl.ipynb)
 
+Caso o notebook que você deseja ler esteja com problemas na renderização, verifique que ele esta apresentando todo seu conteúdo clicando no botão como na imagem abaixo:
+
+<div style="max-height:500px">
+    <img src='./res/visualizar_ipnb_github.png'>
+</div>
+
+E se isso ainda não for suficiente, considere ler ou até executar o notebook localmente.
 
 ### 2. Executando localmente
 
