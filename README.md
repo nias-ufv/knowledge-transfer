@@ -1,4 +1,4 @@
-# NIASIA: KNOWLEDGE TRANSFER
+# :mortar_board: KNOWLEDGE TRANSFER
 
 Repositório contendo explicações breves, exemplos de metodologias e algoritmos para processamento de dados, visualização exploratória de dados, aprendizado de máquina, competições Kaggle e outras soluções aplicadas do campo multidisciplinar de Inteligência Artificial. Mantido pela equipe NIASIA.
 <!-- Coloque a descrição do projeto aqui. Geralmente essa descrição tem de duas a três linhas de tamanho. Ela deve dar uma visão geral sobre o projeto, ex.: tecnologia usada, filosofia de existência, qual problema tenta resolver, etc. -->
