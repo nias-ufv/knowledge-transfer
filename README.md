@@ -60,7 +60,7 @@ $\to$ [VictorRagazzi (Torugo)](https://github.com/VictorRagazzi)
 
 ## 🤝 Contribua
 
-Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) (*pendente*) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/OpenSourceLabUFV/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/OpenSourceLabUFV/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), enviar um pull request, ou simplemente utilizar o projeto e comentar sua experiência.
+Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) (*pendente*) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/NIAS-IA-UFV/knowledge-transfer/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/NIAS-IA-UFV/knowledge-transfer/issues/new?assignees=&labels=bug&template=bug_report.md&title=), enviar um pull request, ou simplemente utilizar o projeto e comentar sua experiência.
 
 <!-- Lembre - se que as contribuições devem seguir nosso [Código de Conduta](CODE_OF_CONDUCT.md). -->
 
