@@ -1,6 +1,7 @@
 # :mortar_board: KNOWLEDGE TRANSFER
 
 Repositório contendo explicações breves, exemplos de metodologias e algoritmos para processamento de dados, visualização exploratória de dados, aprendizado de máquina, competições Kaggle e outras soluções aplicadas do campo multidisciplinar de Inteligência Artificial. Mantido pela equipe NIASIA.
+
 <!-- Coloque a descrição do projeto aqui. Geralmente essa descrição tem de duas a três linhas de tamanho. Ela deve dar uma visão geral sobre o projeto, ex.: tecnologia usada, filosofia de existência, qual problema tenta resolver, etc. -->
 
 <!-- > **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se existir. -->
@@ -26,7 +27,19 @@ O repositório é estruturado de forma que você possa aprender diretamente do G
 - ```/reinforcement-learning``` $\to$ métodos para resolver problemas empregando aprendizado por reforço
 - ```/tipos-de-dados``` $\to$ definições e métodos para importação e tratamento (pre- e pósprocessamento) de diferentes tipos de dados
 
-### 1. Executando localmente
+### 1. Lista de recursos
+
+- [INTRO ao paradigma de Aprendizado de Máquina](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/machine-learning/machine_learning.ipynb)
+- [INTRO aos tipos de dados e importação](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/tipos-de-dados/datatype.ipynb)
+- [INTRO a análise exploratória de dados (EDA)](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/exporatory-data-analysis/EDA.ipynb)
+- [INTRO a metodologia de projeto em IA](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/competitions/baselines.ipynb)
+- [EXEMPLO de regressão por Rede Neural Rasa](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/regression/regression_mlp/mlp_regression.ipynb)
+- [EXEMPLO de classificação por *Clustering*](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/classification/classification_cluster/cluster.ipynb)
+- [EXEMPLO de solução de competição em NLP](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/competitions/what_s_cooking/WHAT_S_COOKING.ipynb)
+- [INTRO ao aprendizado por reforço](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/reinforcement-learning/intro_rl.ipynb)
+
+
+### 2. Executando localmente
 
 O primeiro passo para começar é clonar o repositório. Execute no seu terminal (bash, cmd, etc.):
 
