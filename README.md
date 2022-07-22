@@ -34,7 +34,6 @@ O primeiro passo para começar é clonar o repositório. Execute no seu terminal
 git clone https://github.com/NIAS-IA-UFV/knowledge-transfer.git
 ```
 
-
 <!-- ### 2. Outro(s) passo(s)
 
 Geralmente os próximos passos ensinam como instalar e configurar o projeto para uso/desenvolvimento. Execute:
