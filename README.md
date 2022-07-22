@@ -42,7 +42,7 @@ Geralmente os próximos passos ensinam como instalar e configurar o projeto para
 git clone https://github.com/OpenSourceLabUFV/template
 ``` -->
 
-## Contato
+## :mailbox_with_mail: Contato
 
 Em ordem alfabética, a equipe atual é composta por:
 
