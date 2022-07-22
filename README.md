@@ -18,7 +18,7 @@ Aqui você pode colocar uma captura de tela do produto resultante desse projeto.
 
 ### 0. Estrutura do repositório
 
-O repositório é estruturado de forma que você possa aprender diretamente do Github, lendo os notebooks aprensentando em código e texto explicações pontuais sobre tópicos importantes para projetar soluções aplicando Inteligência Artificial. Atualmente os notebooks estão estruturados como:
+O repositório é estruturado de forma que você possa aprender diretamente do Github, lendo os notebooks que apresentam em código e texto explicações pontuais sobre tópicos importantes para projetar soluções aplicando Inteligência Artificial. Atualmente os notebooks estão estruturados como:
 
 - ```/classification``` $\to$ métodos para resolver problemas de classificação (inferência de categorias)
 - ```/exploratory-data-analysis``` $\to$ métodos para visualização do comportamento e estrutura da informação
@@ -31,8 +31,8 @@ O repositório é estruturado de forma que você possa aprender diretamente do G
 
 - [INTRO ao paradigma de Aprendizado de Máquina](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/machine-learning/machine_learning.ipynb)
 - [INTRO aos tipos de dados e importação](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/tipos-de-dados/datatype.ipynb)
-- [INTRO a análise exploratória de dados (EDA)](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/exporatory-data-analysis/EDA.ipynb)
-- [INTRO a metodologia de projeto em IA](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/competitions/baselines.ipynb)
+- [INTRO à análise exploratória de dados (EDA)](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/exporatory-data-analysis/EDA.ipynb)
+- [INTRO à metodologia de projeto em IA](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/competitions/baselines.ipynb)
 - [EXEMPLO de regressão por Rede Neural Rasa](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/regression/regression_mlp/mlp_regression.ipynb)
 - [EXEMPLO de classificação por *Clustering*](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/classification/classification_cluster/cluster.ipynb)
 - [EXEMPLO de solução de competição em NLP](https://github.com/NIAS-IA-UFV/knowledge-transfer/blob/main/competitions/what_s_cooking/WHAT_S_COOKING.ipynb)
